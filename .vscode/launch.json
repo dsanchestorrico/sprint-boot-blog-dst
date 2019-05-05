@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BlogDemoApplication",
+            "request": "launch",
+            "mainClass": "com.reljicd.BlogDemoApplication",
+            "projectName": "blog-demo"
+        }
+    ]
+}
