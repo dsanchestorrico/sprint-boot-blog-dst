@@ -109,6 +109,7 @@
     </dependencies>
 
     <build>
+        <finalName>${artifactId}</finalName>
         <plugins>
             <!-- Package as an executable jar/war -->
             <plugin>
