@@ -4,7 +4,7 @@ CONTAINER_NAME=spring-boot-blog-demo
 echo -e "\nSet docker container name as ${CONTAINER_NAME}\n"
 IMAGE_NAME=${CONTAINER_NAME}:dev
 echo -e "\nSet docker image name as ${IMAGE_NAME}\n"
-PORT=8090
+PORT=8080
 echo -e "Set docker image PORT to ${PORT}\n"
 
 echo -e "Create uber jar...\n"
