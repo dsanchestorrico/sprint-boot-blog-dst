@@ -13,7 +13,7 @@ const browserRegister = new Builder()
     .build()
 
 
-Given('Abrir home', { timeout: 10 * 1000 }, function () {
+Given('Abrir home', { timeout: 10 * 9000 }, function () {
     return browser.get('http://localhost:8080/home')
 })
 
@@ -25,7 +25,7 @@ Then('El titulo debe decir Spring Boot Thymeleaf', function () {
     })
 })
 
-Given('Abrir login form', { timeout: 20 * 1000 }, function () {
+Given('Abrir login form', { timeout: 20 * 9000 }, function () {
     return browserLogin.get('http://localhost:8080')
 })
 
