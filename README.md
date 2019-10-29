@@ -10,7 +10,7 @@ Abrir una consola en la carpeta cucumber-iu-nodejstest que esta en la raiz del p
     > $ npm run test
 
 Tomar en cuenta que el proyecto en spring boot debe estar ya ejecutándose en el puerto 8080
-
+(la carpeta asset tiene un gif con la ejecución)
 ## About
 
 This is a demo project for practicing **Spring Boot + Thymeleaf**. 
