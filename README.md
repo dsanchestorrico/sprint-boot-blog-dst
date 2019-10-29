@@ -1,11 +1,13 @@
 # Spring Boot Blog Demo
 ## Unit Test Blog Demo 27.10.19
 Se adicionó la clase BlogDemoApplicationTests.java con un conjunto de unit Test.
+![imagen](https://user-images.githubusercontent.com/8481057/67732175-e3179c80-f9d0-11e9-801a-1b60dc8e07f3.png)
 ## Test Blog-Demo Cucumber + SeleniumWebDriver 27.10.19
 Abrir una consola en la carpeta cucumber-iu-nodejstest que esta en la raiz del proyecto y ejecutar los siguientes comandos
 
     > $ npm install
-    > $npm run test
+    > $ npm install geckodriver
+    > $ npm run test
 
 Tomar en cuenta que el proyecto en spring boot debe estar ya ejecutándose en el puerto 8080
 
